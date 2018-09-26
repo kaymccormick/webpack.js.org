@@ -152,7 +152,7 @@ Parameters: `compilationParams`
 
 Executed before emitting the `compilation` event (see below).
 
-Parameters: `compilation`
+Parameters: `compilation`, `compilationParams`
 
 
 ### `compilation`
@@ -161,7 +161,7 @@ Parameters: `compilation`
 
 Runs a plugin after a compilation has been created.
 
-Parameters: `compilation`
+Parameters: `compilation`, `compilationParams`
 
 
 ### `make`
